@@ -741,6 +741,30 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/modes/Phils Modes.txt",
+      "hash": "61c9787f37c371c172eb349fc080cb805c57603a24e67660024225d0392f3c55",
+      "options": [],
+      "title": "Phils Modes & Switches",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Phil",
+      "description": [
+        "Modes und OSD Profil Switch"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "options": [],

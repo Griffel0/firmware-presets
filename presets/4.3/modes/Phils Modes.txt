@@ -1,0 +1,24 @@
+#$ TITLE: Phils Modes & Switches
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: Phil
+#$ DESCRIPTION: Modes und OSD Profil Switch
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 1 4 1300 1700 0 0
+aux 2 2 4 1700 2100 0 0
+aux 3 13 1 1700 2100 0 0
+aux 4 13 2 1950 2100 0 0
+aux 5 19 7 1950 2100 0 0
+aux 6 26 3 1725 2100 0 0
+aux 7 30 4 1300 1700 0 0
+aux 8 35 5 1950 2100 0 0
+
+# adjrange
+adjrange 0 0 7 1400 1900 29 7 0 0
+adjrange 1 0 7 1175 1375 29 7 0 0
+adjrange 2 0 7 900 1100 29 7 0 0
+
